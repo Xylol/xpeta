@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: xpeta
+## Notes: XP progress tracker: last kill, last 5 kills, rolling XP/h and ETA to level.
+## Version: 1.0.0
+## SavedVariables: XpetaDB
+## SavedVariablesPerCharacter: XpetaCharDB
+
+xpeta.lua
